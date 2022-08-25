@@ -1,0 +1,19 @@
+table {
+    width: 100%;
+    height: 100%;
+    color: darkblue;
+}
+
+#demo {
+    height: 600px;
+}
+
+td {
+    text-align: center;
+    font-size: large;
+}
+
+th {
+    color: darkred;
+    font-size: x-large;
+}
